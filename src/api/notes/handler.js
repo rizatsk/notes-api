@@ -1,10 +1,5 @@
-/* eslint-disable max-len */
-/* eslint-disable consistent-return */
-/* eslint-disable no-undef */
-
 const ClientError = require('../../exceptions/ClientError');
 
-/* eslint-disable no-underscore-dangle */
 class NotesHandler {
   constructor(service, validator) {
     this._service = service;

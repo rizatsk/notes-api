@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 const NotesHandler = require('./handler');
 const routes = require('./routes');
 
